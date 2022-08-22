@@ -9,5 +9,5 @@ The assignment asked to report the cross validation accuracy for all values of k
 input features. In my report I discussed why some values work better than others. Also I reported the test accuracy for each type of input feature 
 using the best k.
 
-The full task requirements can be seen in the <a href="../Assignment.pdf" target="blank"> assignment pdf <a>.
+The full task requirements can be seen in the <a href="./Assignment.pdf" target="blank"> assignment pdf <a>.
 
